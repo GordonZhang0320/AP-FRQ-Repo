@@ -12,20 +12,17 @@ public class SignedText{
       return lName;
     }
 
-    return fName.substring(0,1)+"-"+lName;
+    return fName.substring(0,1)+ "-"+lName;
   }
 
-  public String addSignature(String str){
+  public String addSignature(String text){
     String signature=getSignature();
-    if (str.indexOf(signature)==0){
-      return str.substing(signature.length())+signature;
-    } else if (str.indexOf(signature)==-1)
-      return str+siganture;
+    
+    if (text.indexOf(signature)==0){
+      return text.substring(signature.length())+signature;
+    } else if (text.indexOf(signature)==-1){
+      return text+signature;
     }
-    return str;
+    return text;
   }
-
-  
-
-
 }
