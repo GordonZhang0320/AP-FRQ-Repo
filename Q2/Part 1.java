@@ -12,7 +12,7 @@ public class SignedText{
       return lName;
     }
 
-    return fName.substring(0,1)+lName;
+    return fName.substring(0,1)+"-"+lName;
   }
 
   public String addSignature(String str){
