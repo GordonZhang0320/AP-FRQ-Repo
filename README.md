@@ -8,24 +8,29 @@ This repository contains my solutions and reflections for the AP Computer Scienc
 ## Exam Experience
 In this section, I reflect on my overall experience taking the AP Computer Science exam:
 
-- My preparation strategy for the exam included...
-- The most challenging aspects of the exam were...
-- Time management techniques that worked well for me...
-- Mental strategies I used when encountering difficult questions...
+- My preparation strategy for the exam included:
+  - just write the code and test it out
+  - go over the JQR in a java compiler
+- The most challenging aspects of the exam were:
+  - understanding what the problem is requiring you to do
+  - read the precondition and include checks for condition not mentioned
+- Time management techniques that worked well for me:
+  - finish all the short questions first, like less reading but more scarp work question
+- Mental strategies I used when encountering difficult questions:
+  - check JQR and realize what is available for me to use
 
 ## Growth Opportunities
 Through this review process, I've identified these areas for continued learning:
 
-- Topic/Concept 1: [Brief description of what to improve]
-- Topic/Concept 2: [Brief description of what to improve]
-- Programming practice: [Specific practice goals]
+- Topic/Concept 1: The usage of recursion, I need more practice regarding not losing my track in the middle of doing the problem.
+- Topic/Concept 2: The usage of nested for loop, I need more practice regarding to tracing my work on the paper.
+- Programming practice: using more while and enhanced for loop, since I mostly used the traditional for loop.
 
 ## Resources
 Resources I found helpful during my exam preparation and review:
 
-- [Resource name and link]
-- [Resource name and link]
-- [Resource name and link]
+- https://www.csawesome.org/
+- https://www.w3schools.com/
 
 ## Future Goals
 Moving forward, I plan to:
