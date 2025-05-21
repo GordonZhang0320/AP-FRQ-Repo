@@ -34,6 +34,6 @@ Resources I found helpful during my exam preparation and review:
 
 ## Future Goals
 Moving forward, I plan to:
-- [Specific goal related to computer science learning]
-- [Project idea inspired by the exam content]
-- [Study strategy for future computer science courses]
+- use java in actual programming project or learning how to incoporate java with other new programming language
+- I would like to create some more visualize content for the questions, like question 3, I think it is a good idea to be used in a fighting action game.
+- I would like to study more java methods using the website I have, and keep researching relative field of study where I can use java in.
